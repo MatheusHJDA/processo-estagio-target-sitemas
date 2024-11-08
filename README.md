@@ -1,2 +1,5 @@
-# processo-estagio-target-sitemas
-Repositório criado para adicionar os códigos criados no processo seletivo para estágio da Target Sistemas
+# Desafios de Programação
+
+Este repositório contém a resolução de cinco desafios de programação para o processo seletivo de estágio. Cada desafio foi implementado em Python.
+
+## Descrição dos Desafios
